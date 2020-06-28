@@ -1,0 +1,2 @@
+insert into `book` (`author`, `description`, `isbn`, `language`, `pages`, `price`, `published_date`, `publisher`, `title`) values('Raj','Indian Art and culture description','abcd1234','English','100','500.00','2020-06-08','Arihant Publishers','Indian Art and culture');
+insert into `book` (`author`,  `description`, `isbn`, `language`, `pages`, `price`, `published_date`, `publisher`, `title`) values('Yash','Indian Art and culture description1','abcd1234','English','100','500.00','2020-06-08','Arihant Publishers','Indian Art and culture2');
